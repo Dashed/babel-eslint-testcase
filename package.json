@@ -1,7 +1,8 @@
 {
   "devDependencies": {
-    "babel": "5.4.7",
-    "babel-eslint": "3.1.9",
-    "eslint": "0.22.1"
+    "babel": "^5.5.1",
+    "babel-eslint": "^3.1.13",
+    "eslint": "^0.22.1",
+    "react": "^0.13.3"
   }
 }
